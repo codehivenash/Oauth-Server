@@ -42,7 +42,6 @@ GEM
     awesome_print (1.6.1)
     bcrypt (3.1.10)
     builder (3.2.2)
-    byebug (8.2.2)
     codemirror-rails (5.6)
       railties (>= 3.0, < 5)
     coderay (1.1.0)
@@ -197,7 +196,6 @@ PLATFORMS
 
 DEPENDENCIES
   awesome_print
-  byebug
   coffee-rails (~> 4.1.0)
   devise
   doorkeeper
